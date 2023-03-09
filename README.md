@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**keskinabdullah/keskinabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there, I'm Apo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 💻  I am Front-End Deveoper
+
+#### Connect with me:
+
+[<img align="left" alt="keskinabdullah | LinkedIn" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
+[<img align="left" alt="keskinabdullah | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
+
+<br />
+<br />
+<br />
+
+---
+
+### 📚 Latest Medium Story
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
+---
+
+<img align="left" alt="keskinabdullah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=keskinabdullah&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/_akbasmert
+[linkedin]:https://www.linkedin.com/in/abdullah-keskin-ba422421a/
