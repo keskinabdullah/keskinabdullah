@@ -32,6 +32,6 @@
 
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=keskinabdullah&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keskinabdullah&hide=php,blade,shell&show_icons=true&theme=gruvbox)](https://github.com/keskinabdullah)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keskinabdullah&show_icons=true&theme=gruvbox" alt="keskinabdullah" /></p>
