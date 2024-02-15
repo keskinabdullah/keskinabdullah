@@ -4,13 +4,13 @@
 <br> <br> <br>
 
 
-- 🔭 I’m  working on **İzmir İnşaat Emlak Başkanlığı**
+- 🔭 I’m  working on **İn My Village with My Goats**
 
-- 🌱 I’m currently learning **Angular , Java Script**
+- 🌱 I’m currently learning **Python , Sgl Selenıum**
 
 - 🤝 I’m looking for help with **React Native**
 
-- 💬 Ask me about **Ionic , Angular**
+- 💬 Ask me about ** Angular**
 
 - 📫 How to reach me **apokeskin2807@gmail.com**
 
