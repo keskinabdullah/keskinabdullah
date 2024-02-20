@@ -4,13 +4,13 @@
 <br> <br> <br>
 
 
-- 🔭 I’m  working on **İn My Village with My Goats**
+- 🔭 I’m  working on **Tobeto**
 
-- 🌱 I’m currently learning **Python , Sgl Selenıum**
+- 🌱 I’m currently learning **Postman,Selenıum**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **sql ,python**
 
-- 💬 Ask me about ** Angular**
+  
 
 - 📫 How to reach me **apokeskin2807@gmail.com**
 
