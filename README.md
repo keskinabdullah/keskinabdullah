@@ -4,11 +4,11 @@
 <br> <br> <br>
 
 
-- 🔭 I’m  working on **Tobeto**
+- 🔭 I’m  working on **İÇTAŞ-LİMAK ORTAKLIK**
 
-- 🌱 I’m currently learning **Postman,Selenıum**
+- 🌱 I’m currently learning **Postman,Selenıum,**
 
-- 🤝 I’m looking for help with **sql ,python**
+- 🤝 I’m looking for help with **SQL,PYTHON,JIRA-XRAY**
 
   
 
