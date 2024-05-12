@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/muhsine-tsc/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/abdullah-keskin//" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:apokeskin2807@gmail.com" target="_blank">
@@ -56,4 +56,3 @@
 ###
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=keskinabdullah&&style=flat-square)
-
