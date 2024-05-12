@@ -3,8 +3,8 @@
 <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1djB0Z29icm10NTI0YWZ0b21mejBqZHhrb2g4bDdkbDQzOThwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif"  />
 
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&random=false&width=435&lines=%F0%9F%91%8BHEY+YABANCI BEN ABDULLAH" alt="Typing SVG" /></a>
-<p align="left"> QA TESTER </p>
+<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&random=false&width=435&lines=%F0%9F%91%8BHEY+YABANCI " alt="Typing SVG" /></a>
+<p align="left"> BEN ABDULLAH  </p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eeff00&background=FF567F00&random=false&width=435&lines=%F0%9F%8C%90+Iletisim%3A" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eeff00&background=FF567F00&random=false&width=435&lines=%F0%9F%8C%90+ILETISIM%3A" alt="Typing SVG" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdllhkskin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-keskin/)
 
 # <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&background=FF567F00&random=false&width=435&lines=%F0%9F%92%BB+YETKINLIKLER%3A" alt="Typing SVG" /></a>
