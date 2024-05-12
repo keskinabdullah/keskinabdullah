@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=Hello...+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=Hello I'm a TESTER...+%F0%9F%A4%97)](https://git.io/typing-svg)
 <h3 align="left">👋  I'm ABDULLAH </h3>
 
-###
 <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRuajY2aXUxMHc5cG5rNHVyM2xuODc4YjJkYnJvNjE3NW0ycDlrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif" />
 ###
 
