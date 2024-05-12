@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=Hello...+%F0%9F%A4%97)](https://git.io/typing-svg)
 
-<h3 align="left">Hi 👋 There I'm ABDULLAH </h3>
+<h3 align="left">Hi 👋  I'm ABDULLAH </h3>
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRuajY2aXUxMHc5cG5rNHVyM2xuODc4YjJkYnJvNjE3NW0ycDlrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif"  />
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRuajY2aXUxMHc5cG5rNHVyM2xuODc4YjJkYnJvNjE3NW0ycDlrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif" />
 
 ###
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=About+Me" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=1BF7ED&random=false&width=435&lines=TESTER" alt="Typing SVG" /></a>
 <p align="left">👀 I’m interested in Software Testing<br>🌱 I’m currently learning Life ...</p>
 
 ###
@@ -47,6 +47,16 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+![Profile views counter](https://komarev.com/ghpvc/?username=keskinabdullah&&style=flat-square)
+
 
 ###
 
