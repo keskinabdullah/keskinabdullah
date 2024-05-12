@@ -3,7 +3,7 @@
 <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1djB0Z29icm10NTI0YWZ0b21mejBqZHhrb2g4bDdkbDQzOThwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif"  />
 
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=0AB124&random=false&width=435&lines=%F0%9F%91%8BHey+YABANCI,BEN' ABDULLAH" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=#ff2400&random=false&width=435&lines=%F0%9F%91%8BHey+YABANCI,BEN' ABDULLAH" alt="Typing SVG" /></a>
 <p align="left"> QA Tester 🇹🇷</p>
 
 ###
