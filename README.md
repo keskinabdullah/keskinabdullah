@@ -3,7 +3,7 @@
 <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDM1OGhiYmNkOWFuZ3owN2owdmJmNzMycnA1amVsMXdlaHI0YzdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qZEZ0rTln9581K7Q5/giphy.gif"  />
 
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&random=false&width=435&lines=%F0%9F%91%8BHEY+YABANCI BEN BDULLAH " alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&random=false&width=435&lines=%F0%9F%91%8BHEY+ I'm ABDULLAH " alt="Typing SVG" /></a>
 <p align="left"> QA TESTER  </p>
 
 ###
@@ -12,10 +12,10 @@
 
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&background=FF567F00&random=false&width=435&lines=%F0%9F%8C%90+ILETISIM%3A" alt="Typing SVG" /></a>
+## <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&background=FF567F00&random=false&width=435&lines=%F0%9F%8C%90+ADD ME%3A" alt="Typing SVG" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdllhkskin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-keskin/)
 
-# <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&background=FF567F00&random=false&width=435&lines=%F0%9F%92%BB+YETKINLIKLER%3A" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eedc82&background=FF567F00&random=false&width=435&lines=%F0%9F%92%BB+SKİLL%3A" alt="Typing SVG" /></a>
 
 <div align="left">
   <img src="https://jmeter.apache.org/images/logo.svg" height="40" alt="jmeter logo"  />
