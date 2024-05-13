@@ -11,7 +11,8 @@
 
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eedc82&background=FF567F00&random=false&width=435&lines=%f0%9f%99%8a+ADD ME%3A" alt="Typing SVG" /></a>
+### <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eedc82&background=FF567F00&random=false&width=435&lines=%f0%9f%99%8a+ADD ME%3A" alt="Typing SVG" /></a>
+##
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdllhkskin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-keskin/)
 
 # <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eedc82&background=FF567F00&random=false&width=435&lines=%F0%9F%92%BB+SKİLL%3A" alt="Typing SVG" /></a>
