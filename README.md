@@ -4,10 +4,9 @@
 
 ###
 <img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&random=false&width=435&lines=%F0%9F%91%8BHEY+ I'm ABDULLAH " alt="Typing SVG" /></a>
-<p align="left"> QA TESTER  </p>
 
 ###
-<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=ff2400&random=false&width=435&lines=%F0%9F%91%8BTESTER + E " alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=30&pause=1000&color=eedc82&random=false&width=435&lines=%F0%9F%91%8BTESTER + E " alt="Typing SVG" /></a>
 ###
 
 
